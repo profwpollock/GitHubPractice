@@ -11,6 +11,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		System.out.println( "Hello from GHP Eclipse Project!" );
+                System.out.println("odified from NetBeans");
 	}
 
 }
